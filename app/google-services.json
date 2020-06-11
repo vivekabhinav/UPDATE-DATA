@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667204604088",
+    "firebase_url": "https://update-information.firebaseio.com",
+    "project_id": "update-information",
+    "storage_bucket": "update-information.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667204604088:android:d893421b35a456cbbde44d",
+        "android_client_info": {
+          "package_name": "com.abhinav.updateinformation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667204604088-1uks0tok5at0gr67jrvt2mcp976k8a6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhinav.updateinformation",
+            "certificate_hash": "07028f81397751e8f463d56e31ab49489e405517"
+          }
+        },
+        {
+          "client_id": "667204604088-agm0f5f6cjh23papcc10vgqf04avk0k9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCahUIx_ReJPh1Bm61jSgzmnUjxJYs8igw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667204604088-agm0f5f6cjh23papcc10vgqf04avk0k9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
